@@ -1,6 +1,6 @@
 # Itadakimasu_Hack-Roll2018
 
-#Inspiration
+#Inspiration\n
 One major question in life: what should I eat today? And it's a hard one. If you study or work at NUS, being spoiled by numerous food outlets, then it can be a very hard one. Maybe you are one of those people spending such a long time deciphering your own thoughts, or you have one friend who just cannot figure his/her own taste palette out.
 
 #What it does
